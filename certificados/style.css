@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #36393F;
+    color: white;
+}
+
+.centered {
+    text-align: center;
+}
+
+img {
+    border: 10px solid black;
+    height: 40%;
+    width: 40%;
+}
